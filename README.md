@@ -33,7 +33,7 @@ I use JUnit, Vitest, Playwright and pytest for verification, and Render for host
 
 ### Custerra
 
-<a href="https://github.com/Ap-95671/custerra"><img src="assets/projects/custerra.svg" width="100%" alt="Custerra — understand hazards, navigate uncertainty"></a>
+<a href="https://custerra-v2-staging.onrender.com"><img src="assets/projects/custerra.svg" width="100%" alt="Custerra — understand hazards, navigate uncertainty"></a>
 
 <img src="assets/projects/custerra-logo.jpg" width="56" height="56" alt="Custerra project logo">
 
@@ -43,7 +43,16 @@ A geospatial natural-hazard application for exploring reported observations, loc
 
 **State:** V2 release preparation; source remains private until publication checks pass. The [staging preview](https://custerra-v2-staging.onrender.com) uses free hosting and can sleep; background monitoring and outbound push are disabled. It is not an official warning service or a validated disaster forecast.
 
-[Repository](https://github.com/Ap-95671/custerra) · [Staging preview](https://custerra-v2-staging.onrender.com)
+[Staging preview](https://custerra-v2-staging.onrender.com) · Source publication pending the safety checks.
+
+<details>
+<summary>See the actual Custerra staging map</summary>
+
+![Real public USGS observations around San Francisco in Custerra staging, with UNKNOWN overall risk](assets/projects/custerra-staging.jpg)
+
+Staging preview using public test coordinates. Earthquake evidence: [USGS](https://earthquake.usgs.gov/fdsnws/event/1/). Map data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright).
+
+</details>
 
 ### AbhiAI
 
@@ -77,7 +86,15 @@ My environmental-classification experiments remain research-only. No publication
 
 ## GitHub activity
 
-[View the contribution calendar and recent public work on GitHub](https://github.com/Ap-95671?tab=overview).
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/activity/calendar-static.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity/contribution-snake-dark.svg">
+  <img src="assets/activity/contribution-snake-light.svg" width="100%" alt="Animated snake traversing Abhishek’s actual GitHub contribution calendar; a static calendar is linked below">
+</picture>
+
+[Static calendar](assets/activity/calendar-static.svg) · [GitHub activity](https://github.com/Ap-95671?tab=overview) · [Refresh workflow](https://github.com/Ap-95671/Ap-95671/actions/workflows/contribution-visuals.yml)
+
+Updated weekly from GitHub’s contribution calendar. The static snapshot records the generated date and reported count.
 
 The portfolio focuses on the systems above. Contribution counts describe GitHub activity, rather than proficiency or a ranking.
 
