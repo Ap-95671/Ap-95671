@@ -74,6 +74,11 @@ A smaller **Python / Pygame** learning project that visualizes hydrogen, helium 
 
 [Repository](https://github.com/Ap-95671/atomic-model)
 
+## Research
+
+- **[Persistent Memory Architectures for LLMs](https://github.com/Ap-95671/llm-persistent-memory)** — Research in progress on privacy-aware memory adjudication, retrieval and reproducible evaluation. Includes a preserved synthetic experiment and an experimental policy prototype; public-benchmark evaluation is pending.
+- **Adaptive Secure Memory Controller** — Research in progress with a Python prototype. The repository remains private pending co-author and institutional disclosure approval.
+
 ## Research & current focus
 
 I’m interested in **software architecture, AI applications, geospatial computing and system reliability**. I’m developing these interests through project work and study.
