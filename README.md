@@ -18,7 +18,7 @@ My work brings together the application backend, map interface, persistence and 
 
 An AI assistant and social application with a Java backend and a Next.js web client. My work includes the API and persistence layer, provider integration, streaming chat and the client experience.
 
-The project is in active development. Provider integrations are application features; I do not present them as models I trained.
+The project is in active development, with current work on provider routing, streaming chat and client/server boundaries.
 
 **Java · Spring Boot · PostgreSQL · Next.js · React · TypeScript**
 
@@ -48,7 +48,7 @@ A smaller Python/Pygame learning project that visualizes hydrogen, helium and li
 - Geospatial systems, source provenance and communicating uncertainty.
 - Reproducible experiments and the gap between a useful prototype and a validated system.
 
-These are ongoing learning and project interests. I distinguish experiments from published research and deployed features from work still being verified.
+I’m developing these interests through project work and study.
 
 ## Current focus
 
@@ -56,4 +56,4 @@ Improving Custerra’s release readiness and documentation, and developing AbhiA
 
 ## Connect
 
-[GitHub](https://github.com/Ap-95671) · [AbhiAI development roadmap](https://github.com/users/Ap-95671/projects/2)
+[GitHub](https://github.com/Ap-95671) · [LinkedIn](https://www.linkedin.com/in/abhishek-prajapati-a05252254/) · [AbhiAI development roadmap](https://github.com/users/Ap-95671/projects/2)
