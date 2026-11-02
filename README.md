@@ -41,9 +41,9 @@ A geospatial natural-hazard application for exploring reported observations, loc
 
 **Java · Spring Boot · PostgreSQL · Next.js · TypeScript · Leaflet**
 
-**State:** V2 release preparation; source remains private until publication checks pass. The [staging preview](https://custerra-v2-staging.onrender.com) uses free hosting and can sleep; background monitoring and outbound push are disabled. It is not an official warning service or a validated disaster forecast.
+**State:** V2 release preparation; [source is public under Apache-2.0](https://github.com/Ap-95671/custerra). The [staging preview](https://custerra-v2-staging.onrender.com) uses free hosting and can sleep; background monitoring and outbound push are disabled. It is not an official warning service or a validated disaster forecast.
 
-[Staging preview](https://custerra-v2-staging.onrender.com) · Source publication pending the safety checks.
+[Source repository](https://github.com/Ap-95671/custerra) · [Staging preview](https://custerra-v2-staging.onrender.com)
 
 <details>
 <summary>See the actual Custerra staging map</summary>
