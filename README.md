@@ -37,13 +37,13 @@ I use JUnit, Vitest, Playwright and pytest for verification, and Render for host
 
 <img src="assets/projects/custerra-logo.jpg" width="56" height="56" alt="Custerra project logo">
 
-A geospatial natural-hazard application for exploring reported observations, location context and route exposure. My work spans the Java API, map interface, persistence, journey workflows and verification.
+A geospatial natural-hazard workspace for exploring source-linked evidence, planning routes, and monitoring saved journeys. V3 adds map-linked earthquake history, destination comparison, regional road closure reports, and account-aware offline journey copies.
 
 **Java · Spring Boot · PostgreSQL · Next.js · TypeScript · Leaflet**
 
-**State:** The V3 candidate is in review. The public repository is licensed under Apache-2.0 and the hosted staging preview runs V2.
+V3 is in draft review. The hosted preview runs V2.
 
-[Source repository](https://github.com/Ap-95671/custerra) · [V3 screenshot gallery](https://github.com/Ap-95671/custerra#v3-product-previews) · [V2 staging preview](https://custerra-v2-staging.onrender.com)
+[Source repository](https://github.com/Ap-95671/custerra) · [V3 pull request](https://github.com/Ap-95671/custerra/pull/19) · [V3 screenshot gallery](https://github.com/Ap-95671/custerra#v3-product-previews) · [V2 staging preview](https://custerra-v2-staging.onrender.com)
 
 ![Custerra V3 map showing USGS earthquake observations and a source evidence panel near San Francisco](assets/projects/custerra-v3-explorer.jpg)
 
@@ -61,13 +61,19 @@ An AI assistant and social application with a Java backend and a Next.js web cli
 
 [Backend](https://github.com/Ap-95671/abhiai-backend) · [Web client](https://github.com/Ap-95671/abhiai-frontend) · [Development roadmap](https://github.com/users/Ap-95671/projects/2)
 
-### Atomic Model
+### Quantum Atom Lab (Atomic Model)
 
-<a href="https://github.com/Ap-95671/atomic-model"><img src="assets/projects/atomic.svg" width="100%" alt="Atomic Model — an introductory scientific visualization project"></a>
+An interactive scientific workspace for exploring all 118 elements, comparing 3D orbitals, and running browser experiments in molecular bonding, spectroscopy, and quantum measurement.
 
-A smaller **Python / Pygame** learning project that visualizes hydrogen, helium and lithium, with introductory Bohr-model calculations for hydrogen. The visual model is educational; it does not simulate multi-electron quantum mechanics.
+**Python · TypeScript · Three.js · WebGL**
 
-[Repository](https://github.com/Ap-95671/atomic-model)
+The 3.0 alpha browser edition is live on Cloudflare Pages and opens without sign-in. Advanced HF and DFT calculations run in the full local Python application.
+
+[Live lab](https://quantum-atom-lab-ap95671.pages.dev/) · [Source repository](https://github.com/Ap-95671/atomic-model) · [Deployed source branch](https://github.com/Ap-95671/atomic-model/tree/codex/cloudflare-pages-demo)
+
+[![Quantum Atom Lab compares the hydrogen 1s and 2p orbitals at the same physical scale](assets/projects/quantum-atom-lab-orbital-comparison.png)](https://quantum-atom-lab-ap95671.pages.dev/#lab=compare)
+
+Orbital comparison shown in the local application.
 
 ## Research
 
