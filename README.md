@@ -43,7 +43,7 @@ A geospatial natural-hazard workspace for exploring source-linked evidence, plan
 
 V3 is in draft review. The hosted preview runs V2.
 
-[Source repository](https://github.com/Ap-95671/custerra) · [V3 pull request](https://github.com/Ap-95671/custerra/pull/19) · [V3 screenshot gallery](https://github.com/Ap-95671/custerra#v3-product-previews) · [V2 staging preview](https://custerra-v2-staging.onrender.com)
+[Source repository](https://github.com/Ap-95671/custerra) · [V3 pull request](https://github.com/Ap-95671/custerra/pull/19) · [V3 screenshot gallery](https://github.com/Ap-95671/custerra#v3-product-previews) · [V2 staging preview](https://custerra-v2-staging.onrender.com) · [Project board](https://github.com/users/Ap-95671/projects/3)
 
 ![Custerra V3 map showing USGS earthquake observations and a source evidence panel near San Francisco](assets/projects/custerra-v3-explorer.jpg)
 
@@ -59,9 +59,22 @@ An AI assistant and social application with a Java backend and a Next.js web cli
 
 **State:** active development. Provider availability and product reliability are ongoing engineering work.
 
-[Backend](https://github.com/Ap-95671/abhiai-backend) · [Web client](https://github.com/Ap-95671/abhiai-frontend) · [Development roadmap](https://github.com/users/Ap-95671/projects/2)
+[Backend](https://github.com/Ap-95671/abhiai-backend) · [Web client](https://github.com/Ap-95671/abhiai-frontend) · [Development roadmap](https://github.com/users/Ap-95671/projects/2) · [Screenshot gallery](https://github.com/Ap-95671/abhiai-frontend#product-screenshots)
+
+![AbhiAI conversation workspace with model selection and an open assistant panel](assets/projects/abhiai-assistant-workspace.png)
+
+<details>
+<summary>See the AbhiAI social feed</summary>
+
+![AbhiAI social workspace showing post composition, visibility controls, and sample content](assets/projects/abhiai-social-feed.png)
+
+</details>
+
+These screenshots use a test account and sample content.
 
 ### Quantum Atom Lab (Atomic Model)
+
+<a href="https://quantum-atom-lab-ap95671.pages.dev/"><img src="assets/projects/atomic.svg" width="100%" alt="Quantum Atom Lab draws atomic orbitals and supports interactive experiments"></a>
 
 An interactive scientific workspace for exploring all 118 elements, comparing 3D orbitals, and running browser experiments in molecular bonding, spectroscopy, and quantum measurement.
 
@@ -69,7 +82,7 @@ An interactive scientific workspace for exploring all 118 elements, comparing 3D
 
 The 3.0 alpha browser edition is live on Cloudflare Pages and opens without sign-in. Advanced HF and DFT calculations run in the full local Python application.
 
-[Live lab](https://quantum-atom-lab-ap95671.pages.dev/) · [Source repository](https://github.com/Ap-95671/atomic-model) · [Deployed source branch](https://github.com/Ap-95671/atomic-model/tree/codex/cloudflare-pages-demo)
+[Live lab](https://quantum-atom-lab-ap95671.pages.dev/) · [Source repository](https://github.com/Ap-95671/atomic-model) · [Deployed source branch](https://github.com/Ap-95671/atomic-model/tree/codex/cloudflare-pages-demo) · [Project board](https://github.com/users/Ap-95671/projects/4)
 
 [![Quantum Atom Lab compares the hydrogen 1s and 2p orbitals at the same physical scale](assets/projects/quantum-atom-lab-orbital-comparison.png)](https://quantum-atom-lab-ap95671.pages.dev/#lab=compare)
 
