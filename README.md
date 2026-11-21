@@ -33,7 +33,7 @@ I use JUnit, Vitest, Playwright and pytest for verification, and Render for host
 
 ### Custerra
 
-<a href="https://custerra-v2-staging.onrender.com"><img src="assets/projects/custerra.svg" width="100%" alt="Custerra — understand hazards, navigate uncertainty"></a>
+<a href="https://github.com/Ap-95671/custerra#v3-product-previews"><img src="assets/projects/custerra.svg" width="100%" alt="Custerra — understand hazards, navigate uncertainty"></a>
 
 <img src="assets/projects/custerra-logo.jpg" width="56" height="56" alt="Custerra project logo">
 
@@ -41,18 +41,13 @@ A geospatial natural-hazard application for exploring reported observations, loc
 
 **Java · Spring Boot · PostgreSQL · Next.js · TypeScript · Leaflet**
 
-**State:** V2 release preparation; [source is public under Apache-2.0](https://github.com/Ap-95671/custerra). The [staging preview](https://custerra-v2-staging.onrender.com) uses free hosting and can sleep; background monitoring and outbound push are disabled. It is not an official warning service or a validated disaster forecast.
+**State:** The V3 candidate is in review. The public repository is licensed under Apache-2.0 and the hosted staging preview runs V2.
 
-[Source repository](https://github.com/Ap-95671/custerra) · [Staging preview](https://custerra-v2-staging.onrender.com)
+[Source repository](https://github.com/Ap-95671/custerra) · [V3 screenshot gallery](https://github.com/Ap-95671/custerra#v3-product-previews) · [V2 staging preview](https://custerra-v2-staging.onrender.com)
 
-<details>
-<summary>See the actual Custerra staging map</summary>
+![Custerra V3 map showing USGS earthquake observations and a source evidence panel near San Francisco](assets/projects/custerra-v3-explorer.jpg)
 
-![Real public USGS observations around San Francisco in Custerra staging, with UNKNOWN overall risk](assets/projects/custerra-staging.jpg)
-
-Staging preview using public test coordinates. Earthquake evidence: [USGS](https://earthquake.usgs.gov/fdsnws/event/1/). Map data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright).
-
-</details>
+Captured from the local V3 candidate using public San Francisco coordinates. Earthquake evidence: [USGS](https://earthquake.usgs.gov/fdsnws/event/1/). Map data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright).
 
 ### AbhiAI
 
